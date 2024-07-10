@@ -14,8 +14,9 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/huynhtruongdyu?theme=auto&font=baloo&extension=null)
 
-# Contact
+# Where to find me
 
-<a href="https://www.linkedin.com/in/huynhtruongdyu/" rel="linkedin" target="_blank">![Foo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<p>
+<a href="https://github.com/huynhtruongdyu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/huynhtruongdyu" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:huynhtruongdyu@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<a href="mailto:huynhtruongdyu@gmail.com" rel="some text">![Foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+</p>
