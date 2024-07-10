@@ -4,6 +4,12 @@
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=huynhtruongdyu) [![Years Badge](https://badges.pufler.dev/years/huynhtruongdyu)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/huynhtruongdyu)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/huynhtruongdyu)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/huynhtruongdyu)](https://badges.pufler.dev)
+
+<div align="center">
+
+</div>
+
 # Technologies
 
 ## IDEs/Editors
@@ -26,11 +32,10 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=huynhtruongdyu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=huynhtruongdyu&theme=buefy)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhtruongdyu&theme=apprentice&ext=heatmap&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruongdyu&show_icons=true&count_private=true&theme=apprentice&layout=compact&hide_progress=true" alt="huynhtruongdyu" />
+| <a href="https://github.com/huynhtruongdyu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huynhtruongdyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/huynhtruongdyu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruongdyu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
 
@@ -38,7 +43,7 @@
 
 <div align="center">
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/huynhtruongdyu?ext=heatmap&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/huynhtruongdyu?ext=heatmap&theme=buefy)
 
 </div>
 
