@@ -38,8 +38,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huynhtruongdyu&theme=buefy)](https://git.io/streak-stats)
 
-| <a href="https://github.com/huynhtruongdyu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huynhtruongdyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/huynhtruongdyu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruongdyu&layout=compact&theme=buefy&hide_border=true" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/huynhtruongdyu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huynhtruongdyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/huynhtruongdyu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhtruongdyu&layout=compact&theme=buefy&hide_border=true&hide=javascript,html,css" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
 
